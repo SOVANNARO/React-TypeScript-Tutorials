@@ -1,4 +1,4 @@
-type ContainerProps= {
+type ContainerProps = {
   styles: React.CSSProperties
 }
 
